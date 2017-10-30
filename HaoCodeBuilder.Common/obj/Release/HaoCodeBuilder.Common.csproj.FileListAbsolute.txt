@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.Common\bin\Release\HaoCodeBuilder.Common.dll
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.Common\bin\Release\HaoCodeBuilder.Common.pdb
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.Common\bin\Release\HaoCodeBuilder.Model.dll
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.Common\bin\Release\HaoCodeBuilder.Model.pdb
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.Common\obj\Release\HaoCodeBuilder.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.Common\obj\Release\HaoCodeBuilder.Common.dll
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.Common\obj\Release\HaoCodeBuilder.Common.pdb
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.Common\bin\Release\HaoCodeBuilder.Common.dll
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.Common\bin\Release\HaoCodeBuilder.Common.pdb
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.Common\bin\Release\HaoCodeBuilder.Model.dll
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.Common\bin\Release\HaoCodeBuilder.Model.pdb
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.Common\obj\Release\HaoCodeBuilder.Common.csprojResolveAssemblyReference.cache
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.Common\obj\Release\HaoCodeBuilder.Common.dll
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.Common\obj\Release\HaoCodeBuilder.Common.pdb

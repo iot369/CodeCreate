@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Release\HaoCodeBuilder.IData.dll
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Release\HaoCodeBuilder.IData.pdb
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Release\HaoCodeBuilder.Model.dll
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Release\HaoCodeBuilder.Model.pdb
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.IData\obj\Release\HaoCodeBuilder.IData.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.IData\obj\Release\HaoCodeBuilder.IData.dll
+C:\Users\Administrator\Downloads\HaoCodeBuilder-master\HaoCodeBuilder-master\src\HaoCodeBuilder\HaoCodeBuilder.IData\obj\Release\HaoCodeBuilder.IData.pdb
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Release\HaoCodeBuilder.IData.dll
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Release\HaoCodeBuilder.IData.pdb
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Release\HaoCodeBuilder.Model.dll
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Release\HaoCodeBuilder.Model.pdb
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.IData\obj\Release\HaoCodeBuilder.IData.csprojResolveAssemblyReference.cache
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.IData\obj\Release\HaoCodeBuilder.IData.dll
+F:\2017源码审核\10\NET三层代码生成器\HaoCodeBuilder\HaoCodeBuilder.IData\obj\Release\HaoCodeBuilder.IData.pdb
